@@ -35,8 +35,9 @@ if(a[j]>a[j+1]){
 
 	// by bitwise operator
 
-	a[j]=a[j]^a[j+1];
-	a[j]=a[j]^a[j+1];
+//	a[j]=a[j]^a[j+1];
+//	a[i]=a[j]^a[j+1];
+  //       a[j]=a[j]^a[j+1];
 
 	
 	
