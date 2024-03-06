@@ -33,6 +33,7 @@ if(a[j]>a[j+1]){
 			a[j]=a[j+1];
 			a[j+1]=temp;
 
+
 	// by bitwise operator
 
 //	a[j]=a[j]^a[j+1];
