@@ -8,6 +8,7 @@ public class Test {
 	
 		
 		Scanner s = new Scanner(System.in);
+
 		int n=s.nextInt();
 		
 	int 	a[]=new int [n];
