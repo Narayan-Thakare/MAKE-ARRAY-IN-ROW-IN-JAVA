@@ -18,6 +18,7 @@ public class Test {
 		a[i]=s.nextInt();
 		
 	}
+
 		
 	for(int i=0;i<a.length-1;i++){
 		
